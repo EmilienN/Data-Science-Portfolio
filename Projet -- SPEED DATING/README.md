@@ -1,15 +1,15 @@
 # Speed Dating
 
-## Description du challenge
+## Description of the challenge
 
-Nous allons commencer un nouveau projet de data visualisation et d'exploration. Votre but va être d'essayer de comprendre *l'amour* ! C'est un sujet bien compliqué alors nous l'avons simplifié. Votre but va être plutôt de comprendre ce qu'il se passe durant un speed dating et surtout de comprendre ce qui va influencer l'obtention d'un **deuxième date**
+We will start a new data visualization and exploration project. Your goal will be to try to understand *love*! It's a very complicated subject so we've simplified it. Your goal will be to understand what happens during a speed dating and especially to understand what will influence the obtaining of a **second date**.
 
-Ceci est une compétition Kaggle sur laquelle vous pourrez trouver plus de détails ici :
+This is a Kaggle competition on which you can find more details here :
 
 [Speed Dating Dataset](https://www.kaggle.com/annavictoria/speed-dating-experiment#Speed%20Dating%20Data%20Key.doc)
 
-Prenez un peu de temps à lire la description du challenge et tentez de comprendre chacune des variables présentes dans le dataset. Aidez-vous pour cela du document : *Speed Dating - Description des variables.md*
+Take some time to read the description of the challenge and try to understand each of the variables in the dataset. Help yourself with this from the document : *Speed Dating - Description of variables.md*
 
-### Rendu
+### Rendered
 
-Pour réussir ce projet, vous devrez faire une analyse descriptive des principaux facteurs qui influencent le fait d'obtenir un deuxième rendez-vous.
+In order to be successful in this project, you will need to do a descriptive analysis of the main factors that influence getting a second appointment.
