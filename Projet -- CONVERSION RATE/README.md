@@ -1,21 +1,21 @@
 # Conversion Rate Challenge
 
 
-## Objectif
+## Objective
 
-Optimiser des taux de conversion est une des tâches les plus importantes d'un data scientist.
+Optimizing conversion rates is one of the most important tasks of a data scientist.
 
-C'est pourquoi, nous allons construire un modèle qui va prédire le taux de conversion de clients sur un site web et faire des recommandations à notre équipe marketing pour pouvoir augmenter notre revenu.
+That's why we will build a model that will predict the conversion rate of customers on a website and make recommendations to our marketing team in order to increase our revenue.
 
 
-## Description du challenge
+## Description of the challenge
 
-Nous avons récolté des données à propos d'utilisateurs du site d'une entreprise _anonyme_. Votre projet est de :
+We have collected data about users of a _anonymous_ company's website. Your project is :
 
-1. Créer un modèle de prédiction du taux de conversion (l'utilisateur va-t-il convertir ou non?).
+1. Create a model to predict the conversion rate (will the user convert or not?).
 
-2. Trouver des recommandations à faire pour l'équipe Produit & Marketing afin qu'ils puissent améliorer ce taux de conversion.
+2. Find recommendations for the Product & Marketing team to make so that they can improve the conversion rate.
 
-## Données
+## Data
 
-Vous pourrez trouver les données dans votre dossier Projet -- CONVERSION RATE
+You can find the data in your Project -- CONVERSION RATE folder.
