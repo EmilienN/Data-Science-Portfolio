@@ -4,7 +4,7 @@
 **Machine learning supervised :**
 
 Projet -- Predicting Credit Card Approvals<br/>
-Projet -- Conversion Rate
+Projet -- Conversion Rate<br/>
 Projet -- Fraudulent Activities
 
 
