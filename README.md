@@ -5,6 +5,7 @@
 
 Projet -- Predicting Credit Card Approvals<br/>
 Projet -- Conversion Rate
+Projet -- Fraudulent Activities
 
 
 **Data visualization :**
