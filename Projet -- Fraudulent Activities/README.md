@@ -39,5 +39,3 @@ Python
 IpAddress_to_Country
 ```
 
-
-Translated with www.DeepL.com/Translator (free version)
