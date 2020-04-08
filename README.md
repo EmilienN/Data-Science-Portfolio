@@ -8,10 +8,10 @@
 <dd>Build a machine learning model that can predict if an individual's application for a credit card will be accepted. (Logistic Regression)<dd><br/>
 [Projet -- Conversion Rate](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20CONVERSION%20RATE)<br/>
 
-<dd>Build a model that will predict the conversion rate of customers on a website and make recommendations to our marketing team in order to increase our revenue. (Data visualization, Logistic Regression, Random Sampling, Ridge, Lasso, ElasticNet, Random Forest, SmoteTomek)<br/></dt>
+<dd>Build a model that will predict the conversion rate of customers on a website and make recommendations to our marketing team in order to increase our revenue. (Data visualization, Logistic Regression, Random Sampling, Ridge, Lasso, ElasticNet, Random Forest, SmoteTomek)</dt><br/>
 [Projet -- Fraudulent Activities](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Fraudulent%20Activities)<br/>
 
-<dd>Build a model that will predict whether the purchase of a piece of clothing should be considered a fraudulent transaction or not. (Machines Learning Models, Adaaboost, XGboost, Staking, Voting, PCA with SMOTETomel, Evaluation report)<br/></dt>
+<dd>Build a model that will predict whether the purchase of a piece of clothing should be considered a fraudulent transaction or not. (Machines Learning Models, Adaaboost, XGboost, Staking, Voting, PCA with SMOTETomel, Evaluation report)</dt><br/>
 
 
 **Data visualization :**
@@ -21,5 +21,5 @@
 <dd>Analyze a fascinating dataset on every single lego block that has ever been built!</dt> <br/>
 [Projet -- Speed Dating](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20SPEED%20DATING)
 
-<dd>A descriptive analysis of the main factors that influence getting a second appointment. (Data Visualization, Clean Dataset, Storytelling)<br/></dt>
+<dd>A descriptive analysis of the main factors that influence getting a second appointment. (Data Visualization, Clean Dataset, Storytelling)</dt><br/>
 Thanks to the Jedha team and my classmates.
