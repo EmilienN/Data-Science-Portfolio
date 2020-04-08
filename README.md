@@ -13,7 +13,7 @@ Build a model that will predict the conversion rate of customers on a website an
 <br/>
 [Projet -- Fraudulent Activities](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Fraudulent%20Activities)
 
-Build a model that will predict whether the purchase of a piece of clothing should be considered a fraudulent transaction or not. (Machines Learning Models, Adaaboost, XGboost, Staking, Voting, PCA with SMOTETomel, Evaluation report)<br/>
+Build a model that will predict whether the purchase of a piece of clothing should be considered a fraudulent transaction or not. (Machines Learning Models, Bokeh Map, Adaaboost, XGboost, Staking, Voting, PCA with SMOTETomel, Evaluation report)<br/>
 <br/>
 
 
