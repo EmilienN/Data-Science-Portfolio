@@ -1,6 +1,6 @@
 # Jedha-projet
 
-__**Machine learning supervised :**__
+## __**Machine learning supervised :**__
 
 [Projet -- Predicting Credit Card Approvals](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Predicting%20Credit%20Card%20Approvals)
 
@@ -17,7 +17,7 @@ Build a model that will predict whether the purchase of a piece of clothing shou
 <br/>
 
 
-__**Data visualization :**__
+## __**Data visualization :**__
 
 [Mini-Projet -- Exploring 67 years of LEGO](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Exploring%2067%20years%20of%20LEGO)
 
