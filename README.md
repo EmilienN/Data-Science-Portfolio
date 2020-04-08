@@ -3,9 +3,9 @@
 
 **Machine learning supervised :**
 
-<p align="justify">[Projet -- Predicting Credit Card Approvals](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Predicting%20Credit%20Card%20Approvals)</p><br/>
+[Projet -- Predicting Credit Card Approvals](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Predicting%20Credit%20Card%20Approvals)<br/>
 
-Build a machine learning model that can predict if an individual's application for a credit card will be accepted. (Logistic Regression)<br/>
+<p align="justify">Build a machine learning model that can predict if an individual's application for a credit card will be accepted. (Logistic Regression)</p><br/>
 <br/>
 [Projet -- Conversion Rate](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20CONVERSION%20RATE)<br/>
 
