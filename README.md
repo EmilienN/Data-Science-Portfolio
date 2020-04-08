@@ -1,6 +1,5 @@
 # Jedha-projet
 
-
 __**Machine learning supervised :**__
 
 [Projet -- Predicting Credit Card Approvals](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Predicting%20Credit%20Card%20Approvals)
