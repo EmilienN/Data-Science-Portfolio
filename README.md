@@ -19,7 +19,7 @@ Build a model that will predict whether the purchase of a piece of clothing shou
 ## __Machine learning unsupervised :__
 [Projet -- Uber Pickups (In progress)](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Uber%20Pickups%20(In%20progress))<br/>
 
-Give recommendations as to where drivers should be in order to maximize their chances of finding a race. (K-means, DBSCAN)<br/>
+Give recommendations as to where drivers should be in order to maximize their chances of finding a race on schedule. (K-means, DBSCAN)<br/>
 <br/>
 
 ## __Data visualization :__
