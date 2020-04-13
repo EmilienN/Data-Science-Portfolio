@@ -15,3 +15,4 @@ Take the following dataset: [uber-trip-data](https://github.com/fivethirtyeight/
  2. Find these clusters on a map
  3. Now separate these clusters according to the time of day
  4. See the difference between KMeans and DBSCAN
+ 5. Predict number of Trips by hours 
