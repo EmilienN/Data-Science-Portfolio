@@ -16,7 +16,7 @@ Build a model that will predict the conversion rate of customers on a website an
 Build a model that will predict whether the purchase of a piece of clothing should be considered a fraudulent transaction or not. (Machines Learning Models, Bokeh Map, Adaaboost, XGboost, Staking, Voting, PCA with SMOTETomel, Evaluation report)<br/>
 <br/>
 
-[Projet -- Uber Pickups](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Uber%20Pickups%20(In%20progress))<br/>
+[Projet -- Uber Pickups](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Uber%20Pickups)<br/>
 
 Give recommendations as to where drivers should be in order to maximize their chances of finding a race on schedule and build model to predict number of trips by hours. (K-means, DBSCAN, ARIMA, SARIMA)<br/>
 <br/>
