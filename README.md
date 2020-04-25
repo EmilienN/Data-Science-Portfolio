@@ -4,7 +4,7 @@
 
 [Projet -- Yelp Multi Label Classification](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Yelp%20Multi%20Label%20Classification)
 
-Build a model that will predict 9 labels purely (good_for_lunch, good_for_dinner, takes_reservations, outdoor_seating...) from the business photos uploaded by users.(Deep Learning, Transfer Learning, API kaggle)<br/>
+Build a model that will predict 9 labels purely (good_for_lunch, good_for_dinner, takes_reservations, outdoor_seating...) from the business photos uploaded by users. (Deep Learning, Transfer Learning, API kaggle)<br/>
 <br/>
 
 ## __Machine learning supervised & unsupervised :__
