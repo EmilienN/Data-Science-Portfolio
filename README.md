@@ -7,6 +7,11 @@
 Build a model that will predict 9 labels purely (good_for_lunch, good_for_dinner, takes_reservations, outdoor_seating...) from the business photos uploaded by users. (Deep Learning, Transfer Learning, API kaggle)<br/>
 <br/>
 
+[Projet -- Object Detection with YoloV3](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Object%20Detection%20with%20YoloV3)
+
+The detection of objects in an image with Yolov3. (learn how to set up an environment and use a Github project)<br/>
+<br/>
+
 ## __Machine learning supervised & unsupervised :__
 
 [Projet -- Predicting Credit Card Approvals](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Predicting%20Credit%20Card%20Approvals)
