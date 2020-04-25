@@ -7,15 +7,15 @@ At Yelp, there are lots of photos and lots of users uploading photos. These phot
 
 In this competition, you are given photos that belong to a business and asked to predict the business attributes. There are 9 different attributes in this problem:
 
-0: good_for_lunch
-1: good_for_dinner
-2: takes_reservations
-3: outdoor_seating
-4: restaurant_is_expensive
-5: has_alcohol
-6: has_table_service
-7: ambience_is_classy
-8: good_for_kids
+ - 0: good_for_lunch
+ - 1: good_for_dinner
+ - 2: takes_reservations
+ - 3: outdoor_seating
+ - 4: restaurant_is_expensive
+ - 5: has_alcohol
+ - 6: has_table_service
+ - 7: ambience_is_classy
+ - 8: good_for_kids
 
 These labels are annotated by the Yelp community. *Build a model that will predict 9 labels purely (good_for_lunch, good_for_dinner, takes_reservations, outdoor_seating...) from the business photos uploaded by users.*
 
