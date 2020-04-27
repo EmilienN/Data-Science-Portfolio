@@ -12,6 +12,11 @@ Build a model that will predict 9 labels purely (good_for_lunch, good_for_dinner
 The detection of objects in an image with Yolov3. (learn how to set up an environment and use a Github project)<br/>
 <br/>
 
+[Projet -- Real or Not? NLP with Disaster Tweets](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Real%20or%20Not_%20NLP%20with%20Disaster%20Tweets)
+
+The problem to be solved by this capstone project is how to identify which tweets are about ‘real disasters’ and which one’s aren’t. This project will use data science approach to build a machine learning classifier model to predict which tweets are about ‘real disasters’ and which one’s aren’t. (LSTM, NLP, Spacy, NLTK, Deep Learning)<br/>
+<br/>
+
 ## __Machine learning supervised & unsupervised :__
 
 [Projet -- Predicting Credit Card Approvals](https://github.com/EmilienN/jedha-projet/tree/master/Projet%20--%20Predicting%20Credit%20Card%20Approvals)
