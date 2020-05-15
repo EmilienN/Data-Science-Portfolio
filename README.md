@@ -49,7 +49,7 @@ Create an application that will allow the user to enter an SMS into a form, read
 
 Analyze a fascinating dataset on every single lego block that has ever been built!<br/>
 <br/>
-[Project -- Speed Dating](https://github.com/EmilienN/jedha-projet/tree/master/Data%20vizualisation/Project%20--%20SPEED%20DATING)
+[Project -- Speed Dating](https://github.com/EmilienN/Data-Science-Portfolio/tree/master/Data%20vizualisation/Project%20--%20Speed%20Dating)
 
 A descriptive analysis of the main factors that influence getting a second appointment. (Data Visualization, Clean Dataset, Storytelling)<br/>
 <br/>
